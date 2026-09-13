@@ -17,3 +17,5 @@
 
 
 Netlify Live Link : https://smelanding.netlify.app/
+
+Figma design Link : https://www.figma.com/proto/fW8BaN7ROHLlp7ejAT16ZU/Task?node-id=354-333&p=f&t=eBhwmFcmF08Q2BtN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
