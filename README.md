@@ -14,3 +14,6 @@
 # Run: firstly type :    `npm install`
 
 # then type run:       `npm run dev`
+
+
+Netlify Live Link : https://smelanding.netlify.app/
